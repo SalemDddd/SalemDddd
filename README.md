@@ -44,21 +44,25 @@
             style="width: 30px"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
             alt="js"
+            title="postgresql"
           />
           <img
             style="width: 30px"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
             alt="typescript"
+            title="typescript"
           />
           <img
             style="width: 30px"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
             alt="js"
+            title="react"
           />
           <img
             style="width: 30px"
             src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"
             alt="js"
+            title="git"
           />
           <img
             style="width: 30px"
@@ -69,17 +73,20 @@
           <img
             style="width: 30px"
             src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png"
-            alt="js"
+            alt="mysql"
+            title="mysql"
           />
           <img
-            style="width: 30px"
+            style="width: 35px"
             src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"
-            alt="js"
+            alt="express"
+            title="express"
           />
           <img
             style="width: 30px"
             src="https://psv4.userapi.com/c237031/u266376713/docs/d49/1353fde50ddf/dota.png?extra=jmwYHnaI7ISWmDG25yQEvtbpLvO2eKVD0f6Gn-xa4bmgLYez89KVZzCXojN1nD_gZDvtMDmQF5DINnFKcAkFuabeYm0HnyvT5tEXh5ir7Wii0Wp3cuS-A6IbhGhJZqwtlghvxdvMaggu1dxG6n3QqlKyOaw"
-            alt="js"
+            alt="dota2"
+            title="dota2"
           />
           <img
             style="width: 30px"
@@ -93,11 +100,13 @@
             style="width: 50px"
             src="https://dizballanze.com/media/2013/01/npm.png"
             alt="npm"
+            title="npm"
           />
           <img
             style="width: 50px"
             src="https://psv4.userapi.com/c237031/u266376713/docs/d9/8ea6cd3a809f/yran.png?extra=dRv93jMDW1mmxfI6wqssBC6KIwvV3k4rHNUNhF4nkebBT6ShKar2SIhb64ZIL52-NagCa3HT8iXZfk9hvzS7DtTFJC7lOQfeZdPlzRn90KTArSNSAGdOXbmI4QkCEPyQtjyNd72U1BotLs7fiPHDWx3U_oc"
             alt="yarn"
+            title="yarn"
           />
         </div>
       </div>
