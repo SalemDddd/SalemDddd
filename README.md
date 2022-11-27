@@ -15,7 +15,7 @@
       <div style="width: 300px;">
         <h1>Обо мне</h1>
         <p>Александр , 18 , Белгород - играю в доту 2 у меня 2 тысячи <br/> ммра мира
-        настоящий гуль SSS ранга,<br/> смотрю зхс курседа, дрейнер , люблю аниме: <br/>
+        настоящий гуль SSS ранга, смотрю зхс курседа,<br/> дрейнер , люблю аниме: <br/>
         токийский гуль и все, живу пока что с мамой, <br/> но если разрешите могу
         жить в офисе , рост 175, <br/> вес 132 кг , любимая еда: чебупицца, чебупели;
         из мака: двойной <br/> бигмак, кола zero, трйоной чизбурегер; Из кфс: баскет
@@ -104,7 +104,7 @@
     </td>
     <td valign="top" style="width: 50%; border: none !important;">
       <div>
-        <img width="300px" style="width: 300px;" src="https://sun1-29.userapi.com/impg/0AHOYKt1g3DDyyVHrQV0zwcvj5-qVU_yLkoqyA/omsnGcN7Zy0.jpg?size=749x547&quality=95&sign=d98227abd0550d9d58acebf574cd6920&type=album">
+        <img width="450px" style="width: 450px;" src="https://sun1-29.userapi.com/impg/0AHOYKt1g3DDyyVHrQV0zwcvj5-qVU_yLkoqyA/omsnGcN7Zy0.jpg?size=749x547&quality=95&sign=d98227abd0550d9d58acebf574cd6920&type=album">
       </div>
     </td>
   </tr>
