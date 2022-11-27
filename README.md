@@ -132,7 +132,7 @@
     </td>
     <td valign="top" style="width: 50%;  border: none !important;">
       <div>
-        <ul style="margin-top: 70px;">
+        <ul style="margin-top: 70px; margin: 40px;">
           <li style="margin: 15px 0">
             Живу в виртуальном мире потому что в реальном давно разочаровался
           </li>
