@@ -55,11 +55,6 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
             alt="js"
           />
-          <img
-            style="width: 30px"
-            src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png"
-            alt="js"
-          />
           </div>
         <div
           class="icons"
