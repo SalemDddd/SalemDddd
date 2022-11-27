@@ -31,7 +31,7 @@
     <td valign="top" style="width: 50%; border: none !important;">
       <div>
         <h1>My stack:</h1>
-        <div
+                <div
           class="icons"
           style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
         >
@@ -60,6 +60,11 @@
             src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png"
             alt="js"
           />
+          </div>
+        <div
+          class="icons"
+          style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
+        >
           <img
             style="width: 30px"
             src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"
@@ -71,11 +76,6 @@
             title="mobx"
             alt="js"
           />
-        </div>
-        <div
-          class="icons"
-          style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
-        >
           <img
             style="width: 30px"
             src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png"
@@ -86,6 +86,11 @@
             src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"
             alt="js"
           />
+          </div>
+        <div
+          class="icons"
+          style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
+        >
           <img
             style="width: 30px"
             src="https://psv4.userapi.com/c237031/u266376713/docs/d49/1353fde50ddf/dota.png?extra=jmwYHnaI7ISWmDG25yQEvtbpLvO2eKVD0f6Gn-xa4bmgLYez89KVZzCXojN1nD_gZDvtMDmQF5DINnFKcAkFuabeYm0HnyvT5tEXh5ir7Wii0Wp3cuS-A6IbhGhJZqwtlghvxdvMaggu1dxG6n3QqlKyOaw"
