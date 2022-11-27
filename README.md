@@ -8,8 +8,8 @@
         />
       </div>
     </td>
-    <td valign="top" style="width: 50%; border: none !important;">
-      <div style="max-width: 300px;">
+    <td valign="top" style="width: 300px; border: none !important;">
+      <div style="width: 300px;">
         <h1>Обо мне</h1>
         Александр , 18 , Белгород - играю в доту 2 у меня 2 тысячи ммра мира
         настоящий гуль SSS ранга, смотрю зхс курседа, дрейнер , люблю аниме:
