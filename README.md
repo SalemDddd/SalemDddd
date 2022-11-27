@@ -14,7 +14,7 @@
     <td valign="top" style="width: 300px; border: none !important;">
       <div style="width: 300px;">
         <h1>Обо мне</h1>
-        <p>Александр , 18 , Белгород - играю в доту 2 <br/> у меня 2 тысячи ммра мира
+        <p>Александр , 18 , Белгород - играю в доту 2 у меня 2 тысячи <br/> ммра мира
         настоящий гуль SSS ранга,<br/> смотрю зхс курседа, дрейнер , люблю аниме: <br/>
         токийский гуль и все, живу пока что с мамой, <br/> но если разрешите могу
         жить в офисе , рост 175, <br/> вес 132 кг , любимая еда: чебупицца, чебупели;
@@ -55,11 +55,6 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
             alt="js"
           />
-          </div>
-        <div
-          class="icons"
-          style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
-        >
           <img
             style="width: 30px"
             src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"
@@ -81,11 +76,6 @@
             src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"
             alt="js"
           />
-          </div>
-        <div
-          class="icons"
-          style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
-        >
           <img
             style="width: 30px"
             src="https://psv4.userapi.com/c237031/u266376713/docs/d49/1353fde50ddf/dota.png?extra=jmwYHnaI7ISWmDG25yQEvtbpLvO2eKVD0f6Gn-xa4bmgLYez89KVZzCXojN1nD_gZDvtMDmQF5DINnFKcAkFuabeYm0HnyvT5tEXh5ir7Wii0Wp3cuS-A6IbhGhJZqwtlghvxdvMaggu1dxG6n3QqlKyOaw"
