@@ -133,7 +133,7 @@
     <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <ul style="margin-top: 70px;">
-        <br/><br/><br/><br/><br/>
+        <br/><br/><br/><br/>
           <li style="margin: 15px 0">
             Живу в виртуальном мире потому что в реальном давно разочаровался
           </li><br/>
