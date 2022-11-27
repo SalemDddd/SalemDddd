@@ -4,9 +4,9 @@
     <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <img
-          width="300px"
-          height="300px"
-          style="width: 300px"
+          width="400px"
+          height="400px"
+          style="width: 400px; height: 400px"
           src="https://i.pinimg.com/280x280_RS/ba/84/1a/ba841a22d1ce9a8e047ebee0f3154912.jpg"
         />
       </div>
