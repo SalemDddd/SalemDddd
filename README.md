@@ -1,14 +1,15 @@
 # SalemDev
 <table style="width: 100%; border: none !important;">
-  <tr style="width: 100%;">
-    <td valign="top" style="width: 50%;">
+  <tr style="width: 100%;  border: none !important;">
+    <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <img
+        width="100%"
           src="https://i.pinimg.com/280x280_RS/ba/84/1a/ba841a22d1ce9a8e047ebee0f3154912.jpg"
         />
       </div>
     </td>
-    <td valign="top" style="width: 50%;">
+    <td valign="top" style="width: 50%; border: none !important;">
       <div>
         <h1>Обо мне</h1>
         Александр , 18 , Белгород - играю в доту 2 у меня 2 тысячи ммра мира
@@ -24,8 +25,8 @@
 </table>
 
 <table style="width: 100%; border: none !important;">
-  <tr style="width: 100%;">
-    <td valign="top" style="width: 50%;">
+  <tr style="width: 100%; border: none !important;">
+    <td valign="top" style="width: 50%; border: none !important;">
       <div>
         <h1>My stack:</h1>
         <div
@@ -109,17 +110,17 @@
         </div>
       </div>
     </td>
-    <td valign="top" style="width: 50%;">
+    <td valign="top" style="width: 50%; border: none !important;">
       <div>
-        <img src="https://sun1-29.userapi.com/impg/0AHOYKt1g3DDyyVHrQV0zwcvj5-qVU_yLkoqyA/omsnGcN7Zy0.jpg?size=749x547&quality=95&sign=d98227abd0550d9d58acebf574cd6920&type=album">
+        <img width="100%" src="https://sun1-29.userapi.com/impg/0AHOYKt1g3DDyyVHrQV0zwcvj5-qVU_yLkoqyA/omsnGcN7Zy0.jpg?size=749x547&quality=95&sign=d98227abd0550d9d58acebf574cd6920&type=album">
       </div>
     </td>
   </tr>
 </table>
 
 <table style="width: 100%; border: none !important;">
-  <tr style="width: 100%;">
-    <td valign="top" style="width: 50%;">
+  <tr style="width: 100%;  border: none !important;">
+    <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <img
           style="width: 300px"
@@ -127,7 +128,7 @@
         />
       </div>
     </td>
-    <td valign="top" style="width: 50%;">
+    <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <ul style="margin-top: 70px;">
           <li style="margin: 15px 0">
@@ -144,9 +145,9 @@
 </table>
 
 <table style="width: 100%; border: none !important;">
-  <tr style="width: 100%;">
-    <td valign="top" style="width: 50%;"><div>Готов работать в любое время</div></td>
-    <td valign="top" style="width: 50%;">
+  <tr style="width: 100%;  border: none !important;">
+    <td valign="top" style="width: 50%;  border: none !important;"><div>Готов работать в любое время</div></td>
+    <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <img src="https://sun9-17.userapi.com/impg/J227d59YLvKZcgc-QsMLgihypP1w14-HLUAvDw/2BnnwTkYhrc.jpg?size=750x750&quality=95&sign=c30e640692d4e13c8645b305d2ba13b9&type=album">
       </div>
@@ -154,9 +155,9 @@
   </tr>
 </table>
 
-<table style="width: 100%; border: none !important;">
-  <tr style="width: 100%;">
-    <td valign="top" style="width: 50%;">
+<table style="width: 100%;  border: none !important;">
+  <tr style="width: 100%;  border: none !important;">
+    <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <img
           style="width: 300px"
@@ -164,7 +165,7 @@
         />
       </div>
     </td>
-    <td valign="top" style="width: 50%;">
+    <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <a href="https://git.io/typing-svg"
           ><img
