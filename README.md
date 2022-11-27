@@ -1,5 +1,5 @@
 # SalemDev
-<table style="width: 100%;">
+<table style="width: 100%; border: none !important;">
   <tr style="width: 100%;">
     <td valign="top" style="width: 50%;">
       <div>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-<table style="width: 100%;">
+<table style="width: 100%; border: none !important;">
   <tr style="width: 100%;">
     <td valign="top" style="width: 50%;">
       <div>
@@ -111,21 +111,13 @@
     </td>
     <td valign="top" style="width: 50%;">
       <div>
-        <div
-          class="image"
-          style="
-            width: 300px;
-            height: 300px;
-            background: url(https://sun1-29.userapi.com/impg/0AHOYKt1g3DDyyVHrQV0zwcvj5-qVU_yLkoqyA/omsnGcN7Zy0.jpg?size=749x547&quality=95&sign=d98227abd0550d9d58acebf574cd6920&type=album);
-            background-size: cover;
-          "
-        ></div>
+        <img src="https://sun1-29.userapi.com/impg/0AHOYKt1g3DDyyVHrQV0zwcvj5-qVU_yLkoqyA/omsnGcN7Zy0.jpg?size=749x547&quality=95&sign=d98227abd0550d9d58acebf574cd6920&type=album">
       </div>
     </td>
   </tr>
 </table>
 
-<table style="width: 100%;">
+<table style="width: 100%; border: none !important;">
   <tr style="width: 100%;">
     <td valign="top" style="width: 50%;">
       <div>
@@ -151,26 +143,18 @@
   </tr>
 </table>
 
-<table style="width: 100%;">
+<table style="width: 100%; border: none !important;">
   <tr style="width: 100%;">
     <td valign="top" style="width: 50%;"><div>Готов работать в любое время</div></td>
     <td valign="top" style="width: 50%;">
       <div>
-        <div
-          class="image2"
-          style="
-            width: 300px;
-            height: 300px;
-            background: url(https://sun9-17.userapi.com/impg/J227d59YLvKZcgc-QsMLgihypP1w14-HLUAvDw/2BnnwTkYhrc.jpg?size=750x750&quality=95&sign=c30e640692d4e13c8645b305d2ba13b9&type=album);
-            background-size: cover;
-          "
-        ></div>
+        <img src="https://sun9-17.userapi.com/impg/J227d59YLvKZcgc-QsMLgihypP1w14-HLUAvDw/2BnnwTkYhrc.jpg?size=750x750&quality=95&sign=c30e640692d4e13c8645b305d2ba13b9&type=album">
       </div>
     </td>
   </tr>
 </table>
 
-<table style="width: 100%;">
+<table style="width: 100%; border: none !important;">
   <tr style="width: 100%;">
     <td valign="top" style="width: 50%;">
       <div>
