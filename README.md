@@ -1,16 +1,15 @@
 # SalemDev
-
-<table>
-  <tr>
-    <td valign="top">
+<table style="width: 100%;">
+  <tr style="width: 100%;">
+    <td valign="top" style="width: 50%;">
       <div>
         <img
           src="https://i.pinimg.com/280x280_RS/ba/84/1a/ba841a22d1ce9a8e047ebee0f3154912.jpg"
         />
       </div>
     </td>
-    <td valign="top">
-      <div style="max-width: 50%">
+    <td valign="top" style="width: 50%;">
+      <div>
         <h1>Обо мне</h1>
         Александр , 18 , Белгород - играю в доту 2 у меня 2 тысячи ммра мира
         настоящий гуль SSS ранга, смотрю зхс курседа, дрейнер , люблю аниме:
@@ -24,9 +23,9 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td valign="top">
+<table style="width: 100%;">
+  <tr style="width: 100%;">
+    <td valign="top" style="width: 50%;">
       <div>
         <h1>My stack:</h1>
         <div
@@ -110,8 +109,7 @@
         </div>
       </div>
     </td>
-
-    <td valign="top">
+    <td valign="top" style="width: 50%;">
       <div>
         <div
           class="image"
@@ -127,19 +125,19 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td valign="top">
-      <div style="width: 50%">
+<table style="width: 100%;">
+  <tr style="width: 100%;">
+    <td valign="top" style="width: 50%;">
+      <div>
         <img
           style="width: 300px"
           src="https://media.tenor.com/3gA0Ij_7BagAAAAM/sad-dead-inside.gif"
         />
       </div>
     </td>
-    <td valign="top">
-      <div style="width: 50%">
-        <ul>
+    <td valign="top" style="width: 50%;">
+      <div>
+        <ul style="margin-top: 70px;">
           <li style="margin: 15px 0">
             Живу в виртуальном мире потому что в реальном давно разочаровался
           </li>
@@ -153,10 +151,10 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td valign="top"><div>Готов работать в любое время</div></td>
-    <td valign="top">
+<table style="width: 100%;">
+  <tr style="width: 100%;">
+    <td valign="top" style="width: 50%;"><div>Готов работать в любое время</div></td>
+    <td valign="top" style="width: 50%;">
       <div>
         <div
           class="image2"
@@ -172,18 +170,18 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td valign="top">
-      <div style="width: 50%">
+<table style="width: 100%;">
+  <tr style="width: 100%;">
+    <td valign="top" style="width: 50%;">
+      <div>
         <img
           style="width: 300px"
           src="https://sun9-82.userapi.com/impg/mEE6gGoi_7y862jwP5Ms3rBzzptY53t5D3PiUA/aLZIx4zOQqg.jpg?size=720x720&quality=95&sign=1845705515d8732332718afa23453952&type=album"
         />
       </div>
     </td>
-    <td valign="top">
-      <div style="width: 50%">
+    <td valign="top" style="width: 50%;">
+      <div>
         <a href="https://git.io/typing-svg"
           ><img
             src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF700&width=435&lines=1%7C+let+me+%3D+die()"
