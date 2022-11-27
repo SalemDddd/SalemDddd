@@ -163,16 +163,14 @@
     <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <img
-          style="width: 390px"
-          width="390px"
+          style="width: 340px"
+          width="340px"
           src="https://sun9-82.userapi.com/impg/mEE6gGoi_7y862jwP5Ms3rBzzptY53t5D3PiUA/aLZIx4zOQqg.jpg?size=720x720&quality=95&sign=1845705515d8732332718afa23453952&type=album"
         />
       </div>
     </td>
     <td valign="top" style="width: 50%;  border: none !important;">
       <div>
-      <br>
-      <br>
       <br>
       <br>
       <br>
