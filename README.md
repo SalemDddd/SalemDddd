@@ -114,7 +114,7 @@
     </td>
     <td valign="top" style="width: 50%; border: none !important;">
       <div>
-        <img width="100%" src="https://sun1-29.userapi.com/impg/0AHOYKt1g3DDyyVHrQV0zwcvj5-qVU_yLkoqyA/omsnGcN7Zy0.jpg?size=749x547&quality=95&sign=d98227abd0550d9d58acebf574cd6920&type=album">
+        <img width="300px" style="width: 300px;" src="https://sun1-29.userapi.com/impg/0AHOYKt1g3DDyyVHrQV0zwcvj5-qVU_yLkoqyA/omsnGcN7Zy0.jpg?size=749x547&quality=95&sign=d98227abd0550d9d58acebf574cd6920&type=album">
       </div>
     </td>
   </tr>
