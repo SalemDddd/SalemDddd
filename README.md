@@ -93,7 +93,6 @@
             title="jwt (json web token)"
             alt="js"
           />
-        </div>
 <img
             style="width: 30px"
             src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"
