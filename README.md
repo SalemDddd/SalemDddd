@@ -95,6 +95,42 @@
             alt="js"
           />
         </div>
+                        <div
+          class="icons"
+          style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
+        >
+                  <img
+            style="width: 30px"
+            src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"
+            title="tailwind css"
+            alt="tailwind"
+          />                  <img
+            style="width: 30px"
+            src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"
+            title="bootstrap css"
+            alt="bootstrap"
+          /> <img
+            style="width: 30px"
+            src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"
+            title="scss"
+            alt="scss"
+          /><img
+            style="width: 30px"
+            src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png"
+            title="mongodb"
+            alt="mongodb"
+          /><img
+            style="width: 30px"
+            src="https://play-lh.googleusercontent.com/_ATfgR5IQv2JcYauNzhTgntADBECazjfAkHMmq9xDj2Mcwts18TEJ9m3SYUNtdbsxog"
+            title="axios"
+            alt="axios"
+          /><img
+            style="width: 30px"
+            src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"
+            title="next js"
+            alt="next js"
+          />
+        </div>
         <div class="icons2">
           <img
             style="width: 50px"
