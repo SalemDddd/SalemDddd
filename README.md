@@ -94,11 +94,7 @@
             alt="js"
           />
         </div>
-                        <div
-          class="icons"
-          style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
-        >
-                  <img
+<img
             style="width: 30px"
             src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"
             title="tailwind css"
@@ -129,7 +125,6 @@
             title="next js"
             alt="next js"
           />
-        </div>
         <div class="icons2">
           <img
             style="width: 50px"
