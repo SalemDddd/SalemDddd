@@ -136,7 +136,7 @@
             src="https://psv4.userapi.com/c237031/u266376713/docs/d9/8ea6cd3a809f/yran.png?extra=dRv93jMDW1mmxfI6wqssBC6KIwvV3k4rHNUNhF4nkebBT6ShKar2SIhb64ZIL52-NagCa3HT8iXZfk9hvzS7DtTFJC7lOQfeZdPlzRn90KTArSNSAGdOXbmI4QkCEPyQtjyNd72U1BotLs7fiPHDWx3U_oc"
             alt="yarn"
             title="yarn"
-          />
+          /> </div>
         </div>
       </div>
     </td>
