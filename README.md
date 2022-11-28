@@ -88,7 +88,6 @@
             alt="dota2"
             title="dota2"
           />
-
         </div>
                         <div
           class="icons"
