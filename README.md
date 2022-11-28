@@ -185,7 +185,7 @@
 <table style="width: 100%; border: none !important;">
   <tr style="width: 100%;  border: none !important;">
     <td valign="top" style="width: 50%;  border: none !important;"><div><br><br>
-  <br><br><br><br><br><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Готов работать в любое время&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></td>
+  <br><br><br><br><br><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Готов работать в любое время&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div></td>
     <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <img width="450px" style="width: 450px;" src="https://sun9-17.userapi.com/impg/J227d59YLvKZcgc-QsMLgihypP1w14-HLUAvDw/2BnnwTkYhrc.jpg?size=750x750&quality=95&sign=c30e640692d4e13c8645b305d2ba13b9&type=album">
