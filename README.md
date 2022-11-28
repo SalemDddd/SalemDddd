@@ -4,9 +4,9 @@
     <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <img
-          width="420px"
+          width="400px"
           height="350px"
-          style="width: 420px; height: 350px"
+          style="width: 400px; height: 350px"
           src="https://i.pinimg.com/280x280_RS/ba/84/1a/ba841a22d1ce9a8e047ebee0f3154912.jpg"
         />
       </div>
@@ -160,7 +160,7 @@
     <td valign="top" style="width: 50%;  border: none !important;">
       <div>
         <img
-          style="width: 410px"
+          style="width: 390px"
           src="https://media.tenor.com/3gA0Ij_7BagAAAAM/sad-dead-inside.gif"
         />
       </div>
