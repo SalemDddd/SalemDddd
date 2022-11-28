@@ -87,18 +87,17 @@
             src="https://psv4.userapi.com/c237031/u266376713/docs/d49/1353fde50ddf/dota.png?extra=jmwYHnaI7ISWmDG25yQEvtbpLvO2eKVD0f6Gn-xa4bmgLYez89KVZzCXojN1nD_gZDvtMDmQF5DINnFKcAkFuabeYm0HnyvT5tEXh5ir7Wii0Wp3cuS-A6IbhGhJZqwtlghvxdvMaggu1dxG6n3QqlKyOaw"
             alt="dota2"
             title="dota2"
+          /><img
+            style="width: 30px"
+            src="https://marketplace.squiz.net/__data/assets/image/0024/27285/json-web-token-thumbnail.png"
+            title="jwt (json web token)"
+            alt="js"
           />
         </div>
                         <div
           class="icons"
           style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
         >
-                                    <img
-            style="width: 30px"
-            src="https://marketplace.squiz.net/__data/assets/image/0024/27285/json-web-token-thumbnail.png"
-            title="jwt (json web token)"
-            alt="js"
-          />
                   <img
             style="width: 30px"
             src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"
