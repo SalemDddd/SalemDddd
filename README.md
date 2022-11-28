@@ -88,17 +88,18 @@
             alt="dota2"
             title="dota2"
           />
-          <img
-            style="width: 30px"
-            src="https://marketplace.squiz.net/__data/assets/image/0024/27285/json-web-token-thumbnail.png"
-            title="jwt (json web token)"
-            alt="js"
-          />
+
         </div>
                         <div
           class="icons"
           style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
         >
+                                    <img
+            style="width: 30px"
+            src="https://marketplace.squiz.net/__data/assets/image/0024/27285/json-web-token-thumbnail.png"
+            title="jwt (json web token)"
+            alt="js"
+          />
                   <img
             style="width: 30px"
             src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"
