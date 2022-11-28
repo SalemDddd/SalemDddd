@@ -87,13 +87,19 @@
             src="https://psv4.userapi.com/c237031/u266376713/docs/d49/1353fde50ddf/dota.png?extra=jmwYHnaI7ISWmDG25yQEvtbpLvO2eKVD0f6Gn-xa4bmgLYez89KVZzCXojN1nD_gZDvtMDmQF5DINnFKcAkFuabeYm0HnyvT5tEXh5ir7Wii0Wp3cuS-A6IbhGhJZqwtlghvxdvMaggu1dxG6n3QqlKyOaw"
             alt="dota2"
             title="dota2"
-          /><img
+          />
+          <img
             style="width: 30px"
             src="https://marketplace.squiz.net/__data/assets/image/0024/27285/json-web-token-thumbnail.png"
             title="jwt (json web token)"
             alt="js"
           />
-<img
+        </div>
+                        <div
+          class="icons"
+          style="margin-top: 10px; width: 30px; gap: 10px; display: flex"
+        >
+                  <img
             style="width: 30px"
             src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"
             title="tailwind css"
@@ -124,6 +130,7 @@
             title="next js"
             alt="next js"
           />
+        </div>
         <div class="icons2">
           <img
             style="width: 50px"
@@ -136,7 +143,7 @@
             src="https://psv4.userapi.com/c237031/u266376713/docs/d9/8ea6cd3a809f/yran.png?extra=dRv93jMDW1mmxfI6wqssBC6KIwvV3k4rHNUNhF4nkebBT6ShKar2SIhb64ZIL52-NagCa3HT8iXZfk9hvzS7DtTFJC7lOQfeZdPlzRn90KTArSNSAGdOXbmI4QkCEPyQtjyNd72U1BotLs7fiPHDWx3U_oc"
             alt="yarn"
             title="yarn"
-          /> </div>
+          />
         </div>
       </div>
     </td>
@@ -216,7 +223,7 @@
     </td>
   </tr>
 </table>
- 
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalemDddd&langs_count=8)](https://github.com/SalemDddd/github-readme-stats)
